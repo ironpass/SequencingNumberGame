@@ -25,6 +25,7 @@
             android:layout_width = "wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button2"
@@ -32,6 +33,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button3"
@@ -39,6 +41,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button4"
@@ -46,6 +49,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
     </LinearLayout>
 
@@ -61,6 +65,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button6"
@@ -68,6 +73,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button7"
@@ -75,6 +81,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button8"
@@ -82,6 +89,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
     </LinearLayout>
 
@@ -97,6 +105,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button10"
@@ -104,6 +113,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button11"
@@ -111,6 +121,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button12"
@@ -118,6 +129,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
     </LinearLayout>
 
@@ -133,6 +145,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button14"
@@ -140,6 +153,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button15"
@@ -147,6 +161,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button16"
@@ -154,6 +169,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
     </LinearLayout>
 
@@ -169,6 +185,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button18"
@@ -176,6 +193,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button19"
@@ -183,6 +201,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
         <Button
             android:id="@+id/Button20"
@@ -190,6 +209,7 @@
             android:layout_width="wrap_content"
             android:layout_height="80dp"
             android:text = ""
+            android:textSize = "30sp"
             android:onClick="onPress"/>
     </LinearLayout>
 
